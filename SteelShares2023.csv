@@ -1,0 +1,75 @@
+﻿Country,EAF
+Austria,0.09
+Belgium,0.307
+Bulgaria,1
+Croatia,1
+Czech Republic,0.039
+Finland,0.435
+France,0.326
+Germany,0.298
+Greece,1
+Hungary,0.311
+Italy,0.84
+Luxembourg,1
+Netherlands,0
+Poland,0.534
+Portugal,1
+Romania,0.373
+Slovak Republic,0.211
+Slovenia,1
+Spain,0.68
+Sweden,0.348
+Memo: European Union - 27,0.437
+Republic of Türkiye,0.715
+United Kingdom,0.191
+Serbia,0.546
+Russia,0.331
+Ukraine,0.106
+Kazakhstan,0.496
+Belarus,0.496
+Memo: Europe (UN),0.436
+Canada,0.461
+Mexico,0.854
+United States,0.69
+Argentina,0.554
+Brazil,0.238
+Chile,0.391
+Bolivarian Republic of Venezuela,1
+Colombia,0.916
+South America,0.327
+Memo: Americas (UN),0.59
+Egypt,1
+South Africa,0.475
+Algeria,0.927
+Africa,0.867
+Memo: Africa (UN),0.867
+Islamic Republic of Iran,0.918
+Saudi Arabia,1
+United Arab Emirates,1
+Kuwait,1
+Oman,1
+Middle East,0.95
+"China (P.R. of China and Hong Kong, China)",0.095
+People's Republic of China,0.095
+"Hong Kong, China",0.095
+India,0.542
+Japan,0.267
+Korea,0.315
+Taiwan,0.403
+Viet Nam,0.585
+Indonesia,0.585
+Malaysia,0.585
+Pakistan,0.585
+Thailand,0.585
+Bangladesh,0.585
+Memo: Asia (UN),0.211
+Australia,0.265
+New Zealand,0
+World,0.282
+OECD Americas,0.689
+OECD Asia Oceania,0.286
+OECD Europe,0.437
+Non-OECD Americas,0.279
+Non-OECD Europe and Eurasia,0.33
+Non-OECD Asia (excluding China),0.432
+Memo: Oceania (UN),0.24
